@@ -1,4 +1,4 @@
-com\imooc\controller\StuController.class
 com\imooc\controller\PassportController.class
 com\imooc\controller\HelloController.class
 com\imooc\Application.class
+com\imooc\controller\StuController.class
